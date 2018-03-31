@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">EvaqAlarm</string>
+    <string name="disclaimer">
+    <![CDATA[
+        This app was not made to save drivers from parking ticketing. It was made to save some time and money if a driver illegally parked by a mistake. Respect the rules, please.
+    ]]>
+    </string>
+    <string name="action_settings">Settings</string>
+    <string name="press_to_parking">Tap the button to set «Parked» status.</string>
+    <string name="press_to_cancell_parking">Tap the button to set «Parked» status off.</string>
+    <string name="longpress_to_alert">Hold the button to spread the alarm.</string>
+    <string name="share">Share</string>
+    <string name="share_subject">Save the car from the tow truck! EvaqAlarm — is the community-driven tow trucks alarm system.</string>
+    <string name="share_url">http://evaqalarm.com</string>
+    <string name="send_to">Share</string>
+    <string name="alert_message">Alarm! Tow Truck is spotted!</string>
+    <string name="alert_title">EvaqAlarm</string>
+    <string name="parking_cancell">Parking cancelled</string>
+    <string name="server_error">Server is unreachable, check your connection settings</string>
+    <string name="gps_error">Can’t get coordinates, check your GPS settings</string>
+    <string name="alert_success">Alarm signal has been sent</string>
+    <string name="parking_success">Now you’re parked</string>
+    <string name="give_alarm_review">Was the alarm useful?</string>
+    <string name="bad_alarm_confirm">Are you sure that alarm was wasted and the car is safe?</string>
+    <string name="confirm">Please, confirm</string>
+    <string name="sure">Yep</string>
+    <string name="not_sure">Nope</string>
+    <string name="gps_wait">Waiting for GPS-data…</string>
+    <string name="yes">Yes!</string>    
+    <string name="update">Update</string>
+    <string name="feedback_text">
+    <![CDATA[
+         EqvaqAlarm – is a great app<br>isn’t it? <br>It worth to give <br>5 stars to it, <br>to make newcomers see it!
+	]]>
+    </string>
+    <string name="share_text">
+    <![CDATA[
+         EvaqAlarm works best <br>when being used <br>by a big community. <br>Share it among <br>your friends!
+	]]>
+    </string>
+    <string name="update_text">
+    <![CDATA[
+         Sorry this version<br>is too outdated <br>and is unusable. <br>Please, update <br>the application.
+	]]>
+    </string>    		
+    
+
+</resources>

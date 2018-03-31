@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">EvaqAlarm</string>
+    <string name="disclaimer">
+    <![CDATA[
+        Данное приложение сделано не для того, <br>чтобы спасти вас от уплаты законно <br>выписанных штрафов, а для того чтобы <br>сберечь время и нервы на получении <br>автомобиля со штраф-стоянки. <br>Помните, что паркуясь в неположенном <br>месте, вы доставляете множество <br>неудобств другим участникам дорожного <br>движения.
+    ]]>    
+    </string>
+    <string name="action_settings">Settings</string>
+    <string name="press_to_parking">Нажмите кнопку для активации парковки.</string>
+    <string name="press_to_cancell_parking">Нажмите кнопку для деактивации парковки.</string>
+    <string name="longpress_to_alert">Удерживайте кнопку для активации тревоги.</string>
+    <string name="share">Поделиться</string>
+    <string name="share_subject">Спаси машину от эвакуации! EvaqAlarm — программа взаимопомощи автолюбителей</string>
+    <string name="share_url">http://evaqalarm.speind.me</string>
+    <string name="send_to">Рассказать</string>
+    <string name="alert_message">Тревога, замечен эвакуатор!</string>
+    <string name="alert_title">EvaqAlarm</string>
+    <string name="parking_cancell">Статус парковки отменен</string>
+    <string name="server_error">Сервер недоступен, проверьте подключение к сети</string>
+    <string name="gps_error">Координаты недоступны, проверьте настройки GPS</string>
+    <string name="alert_success">Сигнал тревоги отправлен</string>
+    <string name="parking_success">Статус парковки установлен</string>
+    <string name="give_alarm_review">Оцените полезность сигнала тревоги</string>
+    <string name="bad_alarm_confirm">Вы точно уверены, что тревога была ложной и машина в безопасности?</string>
+    <string name="confirm">Подтвердите действие</string>
+    <string name="sure">Уверен</string>
+    <string name="not_sure">Не факт</string>
+    <string name="gps_wait">Определяются координаты...</string>
+    <string name="yes">Да!</string>
+    <string name="update">Обновить</string>
+    <string name="feedback_text">
+    <![CDATA[
+         EqvaqAlarm – отличное <br>приложение, так ведь? <br>Стоит поставить ему <br>хорошую оценку, чтобы <br>другие сразу видели это!
+	]]>
+    </string>
+    <string name="share_text">
+    <![CDATA[
+         EvaqAlarm хорошо <br>работает, когда у <br>приложения много <br>пользователей — расскажи <br>друзьям!
+	]]>
+    </string>
+    <string name="update_text">
+    <![CDATA[
+         Извините, использование <br>данной версии <br>программы невозможно. <br>Обновите, пожалуйста, <br>приложение.
+	]]>
+    </string>    		
+    
+    
+</resources>
